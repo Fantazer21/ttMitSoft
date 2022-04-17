@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa2025b1-ff48-4660-b249-17b437590b3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bll/routePaths.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/header/styles.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/main/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/aboutMe/AboutMe.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/header/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/header/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/header/styles.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/main/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/main/Main.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="TypeScript File" />
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -39,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mit/src/components/PhotosList.jsx" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mit/src/components/Loader.jsx" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -62,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650221008887</updated>
-      <workItem from="1650221010512" duration="4372000" />
+      <workItem from="1650221010512" duration="7017000" />
     </task>
     <task id="LOCAL-00001" summary="add redux and configure it with reducers">
       <created>1650221068867</created>
@@ -71,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650221068867</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add header and routing">
+      <created>1650225612716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650225612716</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add redux and configure it with reducers" />
-    <option name="LAST_COMMIT_MESSAGE" value="add redux and configure it with reducers" />
+    <MESSAGE value="Add header and routing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add header and routing" />
   </component>
 </project>
