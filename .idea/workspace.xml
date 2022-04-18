@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa2025b1-ff48-4660-b249-17b437590b3a" name="Changes" comment="Final version">
-      <change afterPath="$PROJECT_DIR$/src/dal/PhotosSaga.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/aboutMe/about.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/gallery/styles.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/main/Main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/main/styles.module.css" afterDir="false" />
+    <list default="true" id="aa2025b1-ff48-4660-b249-17b437590b3a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bll/photosReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/bll/photosReducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bll/routePaths.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/bll/routePaths.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bll/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/bll/store.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/aboutMe/AboutMe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/aboutMe/AboutMe.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/details/details.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/details/details.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dal/PhotosSaga.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/dal/PhotosSaga.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ui/gallery/Gallery.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/gallery/Gallery.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/header/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650221008887</updated>
-      <workItem from="1650221010512" duration="28685000" />
+      <workItem from="1650221010512" duration="29719000" />
     </task>
     <task id="LOCAL-00001" summary="add redux and configure it with reducers">
       <created>1650221068867</created>
@@ -102,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650228357790</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Final version">
+      <created>1650281799436</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650281799436</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

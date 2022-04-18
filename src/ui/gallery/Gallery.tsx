@@ -55,7 +55,10 @@ const Gallery = () => {
         <div>
             {
                 delay ?
-                    <h1> loading...</h1>
+                    <div>
+                        <h1> loading...</h1>
+                        <h1> loading...</h1>
+                    </div>
                     : <div className={s.main}>
                         <div className={s.block}><h3>1 category</h3>{sorting(0, 6,1)}</div>
                         <div className={s.block}><h3>2 category</h3>{sorting(6, 12,2)}</div>
