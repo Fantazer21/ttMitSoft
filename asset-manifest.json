@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ttMitSoft/static/css/main.586c313b.css",
+    "main.js": "/ttMitSoft/static/js/main.096e1a98.js",
+    "static/js/787.e36a41b4.chunk.js": "/ttMitSoft/static/js/787.e36a41b4.chunk.js",
+    "static/media/ava.jpg": "/ttMitSoft/static/media/ava.05c12611311a3ef87a43.jpg",
+    "index.html": "/ttMitSoft/index.html",
+    "main.586c313b.css.map": "/ttMitSoft/static/css/main.586c313b.css.map",
+    "main.096e1a98.js.map": "/ttMitSoft/static/js/main.096e1a98.js.map",
+    "787.e36a41b4.chunk.js.map": "/ttMitSoft/static/js/787.e36a41b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.586c313b.css",
+    "static/js/main.096e1a98.js"
+  ]
+}
