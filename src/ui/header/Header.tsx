@@ -6,13 +6,15 @@ import s from './styles.module.css'
 import {routePath} from "../../bll/routePaths";
 import Image from 'react-bootstrap/Image'
 
+
 export function Header() {
+
     return (
         <>
             <Navbar bg='dark' variant='dark' expand={false} fixed='top'>
                 <Container fluid>
                     <Navbar.Brand href='#'>Logo</Navbar.Brand>
-                    <Navbar.Toggle  aria-controls='offcanvasNavbar' />
+                    <Navbar.Toggle aria-controls='offcanvasNavbar'/>
                     <Navbar.Offcanvas
                         id='offcanvasNavbar'
                         aria-labelledby='offcanvasNavbarLabel'
@@ -23,7 +25,8 @@ export function Header() {
                                 <Image srcSet={ava} roundedCircle={true} width={40}/>
                                 <p>6967221@mail.ru</p>
                                 <NavLink className={s.navLink} to={routePath.ABOUT_ME}>About me</NavLink>
-                                <NavLink className={s.navLink} to={routePath.GALLERY}>Gallery</NavLink>
+                                <NavLink className={s.navLink} to={routePath.GALLERY}> Gallery</NavLink>
+                                <NavLink className={s.navLink} to={routePath.MAIN}>Main</NavLink>
                             </Nav>
                         </Offcanvas.Body>
                     </Navbar.Offcanvas>

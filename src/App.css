@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.routings {
+  margin-top: 130px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
